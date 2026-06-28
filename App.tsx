@@ -1,5 +1,5 @@
 import { useState, useCallback, useEffect, useRef } from 'react';
-import { supabase } from './lib/supabase';
+import { supabase } from './supabase';
 import {
   Film, Monitor, Smartphone, Sparkles, Play,
   Loader2, Clapperboard, ArrowRight, Clock, User, ExternalLink
